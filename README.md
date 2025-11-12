@@ -9,11 +9,15 @@
 ![选中](https://github.com/user-attachments/assets/a010b6d4-6cbd-4c65-8eb1-e8922418f6dc)
 ![选中](https://github.com/user-attachments/assets/da85768e-d3d1-41fe-8d74-61e583123f9f)
 
-## ➕ 背景流光效果 / Background shimmering effect
+<details>
+<summary><h2>➕背景流光效果 / Background shimmering effect</h2></summary>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/36c8ee11-2ead-4f7f-91f3-760aabf9e78a" alt="背景流光版" width="45%" />
   <img src="https://github.com/user-attachments/assets/1e3240ab-5f21-4231-b12a-69c1ba4af9a1" alt="背景流光版1" width="45%" />
 </p>
+</details>
+
+<h2>深色主题</h2>
 
 ### 🔴🔵 流光 / Transparent Red & Blue-Violet
 <p align="center">
@@ -42,8 +46,22 @@
 </p>
 
 ---
+<details>
+<summary><h2>浅色主题</h2></summary>
+  
+### ❄️ 看着还行的浅色蓝紫 / Decent Light Blue-Violet
+<p align="center">
+  <img width="50%" alt="image" src="https://github.com/user-attachments/assets/22a65b50-a8fb-442e-8645-741eb76e31d9" />
+</p>
 
-## ⚠️ 已知问题 / Known Issues
+### ✨ 更模糊的浅色蓝紫 / Deeper Light Blue-Violet
+<p align="center">
+  <img width="50%" alt="image" src="https://github.com/user-attachments/assets/29aec7c7-921c-4782-8c78-8a12fd731df4" />
+</p>
+</details>
+
+<details>
+<summary> <h2>⚠️ 已知问题 / Known Issues</h2></summary>
 
 - **透明度过高**：部分组件透明度过高，导致重叠  
   *Some components are too transparent, causing overlap*  
@@ -56,6 +74,7 @@
 - **边框异常**：设置页面部分组件边框渲染异常  
   *Border rendering issue on settings page*  
   <img src="https://github.com/user-attachments/assets/bb839306-e53b-4e32-a681-b3d9493e0b71" width="500" />
+</details>
 
 ---
 
