@@ -17,6 +17,44 @@
 </p>
 </details>
 
+<details>
+<summary>
+<h2> 🕶 自定义流光效果 / Custom: Flowing Effect</summary></h2>
+
+---
+
+### 🎨 默认效果：金色流光 / Default Effect: Golden Shimmer
+
+默认的流光效果为金色。
+*The default flowing effect is a golden shimmer.*
+
+![金色流光](https://github.com/user-attachments/assets/9691293b-2126-4587-b7df-4b8333f7cdbd)
+
+
+---
+
+#### 💡 提示与参考 / Tip & Reference
+
+*  具体请参考 `可定义的组件流光-Definable-Component-Flow` 里的注释说明。
+*  For details, please refer to the comments within the `Definable-Component-Flow` component.
+
+#### 🛠️ 示例 / Example
+
+将默认设置：
+
+>`--flow-color: 255, 215, 0;`
+
+修改为绿色（RGB 值 $34, 197, 94$）：
+
+>`--flow-color: 34, 197, 94;`
+
+你将得到绿色流光效果：
+
+![绿色流光](https://github.com/user-attachments/assets/6e8aadbf-4fb3-47bc-99f8-95a03909019a)
+
+
+</details>
+
 <h2>深色主题</h2>
 
 ### 🔴🔵 流光 / Transparent Red & Blue-Violet
